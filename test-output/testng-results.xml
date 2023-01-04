@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[hello java]]>
+    </line>
+    <line>
+      <![CDATA[hello Selenium]]>
+    </line>
+    <line>
+      <![CDATA[hello java]]>
+    </line>
+    <line>
+      <![CDATA[hello PythonSelenium]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-04T11:00:40 IST" name="Suite" finished-at="2023-01-04T11:00:40 IST" duration-ms="100">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T11:00:40 IST" name="Test" finished-at="2023-01-04T11:00:40 IST" duration-ms="100">
+      <class name="scripts.Tc3">
+        <test-method signature="demo()[pri:0, instance:scripts.Tc3@9353778]" started-at="2023-01-04T11:00:40 IST" name="demo" finished-at="2023-01-04T11:00:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- scripts.Tc3 -->
+      <class name="scripts.Tc4">
+        <test-method signature="demo()[pri:0, instance:scripts.Tc4@6a28ffa4]" started-at="2023-01-04T11:00:40 IST" name="demo" finished-at="2023-01-04T11:00:40 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello PythonSelenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- scripts.Tc4 -->
+      <class name="scripts.Tc1">
+        <test-method signature="demo()[pri:0, instance:scripts.Tc1@67a20f67]" started-at="2023-01-04T11:00:40 IST" name="demo" finished-at="2023-01-04T11:00:40 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- scripts.Tc1 -->
+      <class name="scripts.Tc2">
+        <test-method signature="demo()[pri:0, instance:scripts.Tc2@63355449]" started-at="2023-01-04T11:00:40 IST" name="demo" finished-at="2023-01-04T11:00:40 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello Selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- scripts.Tc2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
